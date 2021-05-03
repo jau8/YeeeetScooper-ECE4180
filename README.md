@@ -93,7 +93,7 @@ Follow the steps below to assemble the robot.
 3.	On the surface of the car, secure an external power supply and secure it with tape.
 4.	Screw down the large arm servo’s rectangular support and 3d printed arm onto the chassis.
 5.	Connect the power 
-<br/><br/> <br/><br/> 
+<br/><br/> <br/>
 ## Implementation
 The design process involved finding suitable components, CAD design, embedded systems wiring, microcontroller programming, testing, and debugging. Most of the components were available for check out from the 4180 lab or already in the Mbed and Sparkfun kit. However as mentioned in the section above, the scoop, scoop's servo frame, arm's servo connector, and arm had to be designed in Fusion 360 and 3D printed. The components were assembled by attaching parts with screws, glue, and tape.
 <br/> <br/>
