@@ -56,6 +56,7 @@ The design process involved finding suitable components, CAD design, embedded sy
 A real time operating system(RTOS) was used for precise motor control and quick responses to user inputs. Testing was done in stages. First, the left and right DC wheel motors were tested independently with sample code. Then, it was integrated with the Bluefruit connect app so that a user could control the movement of the wheels from their phone. Afterwards, the servos were tested with code that would move the arms up and down, and also open and close the scoop claws. Finally, all the functions were combined in threads to drive the car, move the claw (scoop), and move the arm.
 <br/>
 Below is a picture of the Bluefruit Connect App's buttons, and here are the corresponding movements:
+<br/>
     - Up arrow: Forward
     - Down arrow: Backward
     - Right arrow: Turn Right
@@ -74,7 +75,7 @@ Click for the demo video:
 <br/> 
 Click for Bluetooth Module control video:
 <br/>  
-[![Bluefruit Connect](https://user-images.githubusercontent.com/72982370/116843114-efc01680-abac-11eb-8abc-8bd8b3eef585.jpg)](https://youtu.be/8H74jWEbRB8 "Bluefruit Connect")
+[![Bluefruit Connect](https://user-images.githubusercontent.com/72982370/116843238-57766180-abad-11eb-9e3e-bdb7fb5f7dd9.png)](https://youtu.be/8H74jWEbRB8 "Bluefruit Connect")
 <br/><br/> 
 To setup the device you first need to do the following:
 
