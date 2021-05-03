@@ -61,7 +61,7 @@ Click for the demo video:
 <br/> 
 Click for Bluetooth Module control video:
 <br/>  
-[![Bluefruit Connect]((https://user-images.githubusercontent.com/72982370/116843114-efc01680-abac-11eb-8abc-8bd8b3eef585.jpg)](https://youtu.be/8H74jWEbRB8 "Bluefruit Connect")
+[![Bluefruit Connect](https://user-images.githubusercontent.com/72982370/116843114-efc01680-abac-11eb-8abc-8bd8b3eef585.jpg)](https://youtu.be/8H74jWEbRB8 "Bluefruit Connect")
 <br/><br/> 
 To setup the device you first need to do the following:
 
