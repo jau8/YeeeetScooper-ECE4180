@@ -72,7 +72,6 @@ Follow the steps below to assemble the robot.
 ### Robot Chassis
 1.	Assemble the robot’s frame with the Sparkfun kit. There are no screws needed in this step as the pieces snap in place.
 2.	Attach the two wheels.
-
 <br/> <br/> 
 ### 3D printing
 1.	Create designs for the scoop, scoop's servo frame, arm's servo connector, and arm. The project files are available under the 3d_print_files folder.
