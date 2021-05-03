@@ -62,7 +62,20 @@ Here is the wiring table for the Adafruit Bluetooth module:
 
 <br/><br/> <br/><br/> 
 ## Hardware Setup
-Follow the steps below to assemble the robot.
+Follow the steps below to assemble the robot. Here are a couple images with different views for reference.
+<br/>
+Top view:
+<br/>
+![](https://user-images.githubusercontent.com/72982370/116887243-15bed880-abf8-11eb-9326-22913b578427.png)
+<br/>
+Breadboard:
+<br/>
+![](https://user-images.githubusercontent.com/72982370/116887320-2d965c80-abf8-11eb-9af4-325afd3d4f2e.png)
+<br/>
+Side view:
+<br/>
+![](https://user-images.githubusercontent.com/72982370/116887426-4b63c180-abf8-11eb-8ab7-06f0dd7672f2.png)
+
 <br/><br/> <br/>
 ### Mbed
 1.	On a breadboard, insert an mbed, dual H-bridge L293D, Adafruit Bluefruit (BLE) module, and external power supply jacks.  
