@@ -54,6 +54,19 @@ The arm for the scoop with a triangular support:
 The design process involved finding suitable components, CAD design, embedded systems wiring, microcontroller programming, testing, and debugging. Most of the components were available for check out from the 4180 lab or already in the Mbed and Sparkfun kit. However as mentioned in the section above, the scoop, scoop's servo frame, arm's servo connector, and arm had to be designed in Fusion 360 and 3D printed. The components were assembled by attaching parts with screws, glue, and tape.
 <br/>
 A real time operating system(RTOS) was used for precise motor control and quick responses to user inputs. Testing was done in stages. First, the left and right DC wheel motors were tested independently with sample code. Then, it was integrated with the Bluefruit connect app so that a user could control the movement of the wheels from their phone. Afterwards, the servos were tested with code that would move the arms up and down, and also open and close the scoop claws. Finally, all the functions were combined in threads to drive the car, move the claw (scoop), and move the arm.
+<br/>
+Below is a picture of the Bluefruit Connect App's buttons, and here are the corresponding movements:
+    - Up arrow: Forward
+    - Down arrow: Backward
+    - Right arrow: Turn Right
+    - Left arrow: Turn Left
+    - Button (1): Open Scoop
+    - Button (2): Close Scoop
+    - Button (3): Lift Arm
+    - Button (4): Lower Arm
+<br/>
+![](https://user-images.githubusercontent.com/72982370/116843238-57766180-abad-11eb-9e3e-bdb7fb5f7dd9.png)
+
 ## Demo
 Click for the demo video: 
 <br/> 
