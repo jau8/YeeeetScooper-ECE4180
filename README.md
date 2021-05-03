@@ -50,7 +50,9 @@ The arm for the scoop with a triangular support:
 ![armBeam2](https://user-images.githubusercontent.com/72982370/116843062-c0a9a500-abac-11eb-8f6b-0fdb5508259f.png)
 <br/><br/> <br/> 
 ### Wiring
-**INSERT DIAGRAM + WIRING TABLE**
+The following image shows the design schematic and wiring of the motors, portable battery, battery pack, mbed, H-bridge, Adafruit Bluetooth module, and servos.
+![](https://user-images.githubusercontent.com/72982370/116844265-98bc4080-abb0-11eb-83ac-58465b2747ee.png)
+
 <br/><br/> 
 ## Implementation
 The design process involved finding suitable components, CAD design, embedded systems wiring, microcontroller programming, testing, and debugging. Most of the components were available for check out from the 4180 lab or already in the Mbed and Sparkfun kit. However as mentioned in the section above, the scoop, scoop's servo frame, arm's servo connector, and arm had to be designed in Fusion 360 and 3D printed. The components were assembled by attaching parts with screws, glue, and tape.
