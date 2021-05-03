@@ -134,11 +134,8 @@ Under demos, there is a video of the Bluefruit Connect App's buttons, and here a
 ## Demo
 Click for the demo video: 
 <br/> 
-[![4180 Demo Video](https://user-images.githubusercontent.com/72982370/116843088-db7c1980-abac-11eb-97d6-28799c1b5da6.jpg)](https://youtu.be/hyVIhcKYEOI "4180 Demo Video")
+[![4180 Demo Video](https://user-images.githubusercontent.com/72982370/116843088-db7c1980-abac-11eb-97d6-28799c1b5da6.jpg)](https://www.youtube.com/watch?v=gscUUBd-H84 "4180 Demo Video")
 <br/> 
-Click for Bluetooth Module control video:
-<br/>  
-[![Bluefruit Connect](https://user-images.githubusercontent.com/72982370/116843238-57766180-abad-11eb-9e3e-bdb7fb5f7dd9.png)](https://youtu.be/8H74jWEbRB8 "Bluefruit Connect")
 <br/><br/> 
 To setup the device you first need to do the following:
 
