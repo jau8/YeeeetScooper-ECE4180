@@ -9,7 +9,9 @@ The YeeeetScooper Robot connects to a phone using the Bluefruit app. The app use
 <br/> <br/>
 The project was inspired by intelligent, recycling robots. There is great potential for the advancement of this technology in waste management, such as the addition of neural networks so that robots may clean streets and buildings.
 <br/><br/>  
-
+Click for quick link to demo video:
+<br/>
+[![4180 Demo Video](https://user-images.githubusercontent.com/72982370/116843088-db7c1980-abac-11eb-97d6-28799c1b5da6.jpg)](https://youtu.be/hyVIhcKYEOI "4180 Demo Video")
 ## Design
 ### Components
 - Mbed
