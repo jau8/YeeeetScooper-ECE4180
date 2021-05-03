@@ -104,4 +104,4 @@ To setup the device you first need to do the following:
 <br/><br/>  
 
 ## Future Work
-The robot could be improved by adding sound effects and LEDs to indicate when the trash is picked up and dropped. Another possible modification is the capability to control the speed of the forward and backward motion. An advanced imporvement would be deep learning, neural networks, and computer vision so that the robot could be autonomous and identify trash and pick it up.
+The robot could be improved by adding sound effects and LEDs to indicate when the trash is picked up and dropped. Another possible modification is the capability to control the speed of the forward and backward motion. An advanced improvement would be deep learning, neural networks, and computer vision so that the robot could be autonomous and identify trash and pick it up.
