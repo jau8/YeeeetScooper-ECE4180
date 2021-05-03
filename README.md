@@ -5,7 +5,7 @@
 
 ## Overview
 
-The YeeeetScooper Robot connects to a phone using the Bluefruit app. The app uses a bluetooth connection to control the direction of the robot’s motion, the opening and closing of the scoop, and the lifting and lowering of the scoop. The arm connects to a scoop to pick up tiny objects and trash such as paper. The scoop can open approximately 180 degrees to dumb the trash into a trashcan. 
+The YeeeetScooper Robot connects to a phone using the Bluefruit app. The app uses a bluetooth connection to control the direction of the robot’s motion, the opening and closing of the scoop, and the lifting and lowering of the scoop. The arm connects to a scoop to pick up tiny objects and trash such as paper. The scoop can open approximately 180 degrees to dump the trash into a trashcan. 
 <br/> <br/>
 The project was inspired by intelligent, recycling robots. There is great potential for the advancement of this technology in waste management, such as the addition of neural networks so that robots may clean streets and buildings.
 <br/><br/>  
