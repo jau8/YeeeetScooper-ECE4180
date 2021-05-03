@@ -30,7 +30,8 @@ The following parts were 3D printed and attached to the robot with screws and gl
 <br/> <br/> 
 The scoop: 
 <br/> 
-![](2021-05-03-00-05-56.png)
+![2021-05-03-00-05-56](https://user-images.githubusercontent.com/72982370/116842997-850edb00-abac-11eb-99da-4061e67026a1.png)
+
 <br/> <br/> 
 The frame for the servos that open and close the scoop:
 <br/> 
