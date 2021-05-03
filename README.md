@@ -50,8 +50,14 @@ The arm for the scoop with a triangular support:
 ![armBeam2](https://user-images.githubusercontent.com/72982370/116843062-c0a9a500-abac-11eb-8f6b-0fdb5508259f.png)
 <br/><br/> <br/> 
 ### Wiring
-The following image shows the design schematic and wiring of the motors, portable battery, battery pack, mbed, H-bridge, Adafruit Bluetooth module, and servos.
+The following image shows the design schematic and wiring of the motors, portable battery, battery pack, mbed, H-bridge, Adafruit Bluetooth module, and servos:
 ![](https://user-images.githubusercontent.com/72982370/116844265-98bc4080-abb0-11eb-83ac-58465b2747ee.png)
+<br/><br/> 
+Here is the wiring for the dual H-bridge:
+![](https://user-images.githubusercontent.com/72982370/116844547-5f380500-abb1-11eb-8da4-c900aee2abc3.png)
+<br/><br/> 
+Here is the wiring table for the Adafruit Bluetooth module:
+![](https://user-images.githubusercontent.com/72982370/116844684-c5bd2300-abb1-11eb-8ba8-ac845fefd1fa.png)
 
 <br/><br/> 
 ## Implementation
