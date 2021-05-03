@@ -61,19 +61,20 @@ Here is the wiring table for the Adafruit Bluetooth module:
 ![](https://user-images.githubusercontent.com/72982370/116844684-c5bd2300-abb1-11eb-8ba8-ac845fefd1fa.png)
 
 <br/><br/> <br/><br/> 
-# Hardware Setup
+## Hardware Setup
 Follow the steps below to assemble the robot.
 <br/><br/> <br/>
-## Mbed
+### Mbed
 1.	On a breadboard, insert an mbed, dual H-bridge L293D, Adafruit Bluefruit (BLE) module, and external power supply jacks.  
 2.	Complete the wiring as described in the wiring section.
-<br/> <br/> 
-## Robot Chassis
-<br/>
+<br/><br/>
+
+### Robot Chassis
 1.	Assemble the robot’s frame with the Sparkfun kit. There are no screws needed in this step as the pieces snap in place.
 2.	Attach the two wheels.
+
 <br/> <br/> 
-## 3 D printing
+### 3D printing
 1.	Create designs for the scoop, scoop's servo frame, arm's servo connector, and arm. The project files are available under the 3d_print_files folder.
 2.	3D print the parts.
 3.	Sand the inner edges of the scoop’s claw so that the edges close together smoothly.
@@ -81,13 +82,13 @@ Follow the steps below to assemble the robot.
 5.	On the arm for the scoop with a triangular support, drill a tiny hole for a screw at the end of the bottom base of the triangle’s lower extension. With a screw, attach the arm to the scoop’s servo frame.
 6.	Add glue as reinforcement wherever needed.
 <br/> <br/> 
-## Motors and Servos
+### Motors and Servos
 1.	Attach the 2 DC motors to the wheels and wire it up to the H-bridge.
 2.	Find tiny screws that fit in the right and left claw servos. Drill holes according to its size in the frame for the servos that open and close the scoop. Using the screws, attach the right and left claw servos to the frame.
 3.	Attach the large arm servo to the 3D printed arm with screws.
 4.	Screw down the large arm servo into its rectangular support.
 <br/> <br/> 
-## Integration
+### Integration
 1.	Put the breadboard on the back of the car and secure it with tape.
 2.	Under the surface of the car, insert a battery pack and secure it with tape.
 3.	On the surface of the car, secure an external power supply and secure it with tape.
