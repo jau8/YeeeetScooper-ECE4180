@@ -35,15 +35,17 @@ The scoop:
 <br/> <br/> 
 The frame for the servos that open and close the scoop:
 <br/> 
-![](2021-05-03-00-06-40.png)
+![2021-05-03-00-06-40](https://user-images.githubusercontent.com/72982370/116843037-a8d22100-abac-11eb-8204-949f75b329f0.png)
+
 <br/> <br/> 
 A support and connector to the chassis for the large servo that moves the scoop arm up and dowm: 
 <br/> 
-![](2021-05-03-00-07-24.png)
+![2021-05-03-00-07-24](https://user-images.githubusercontent.com/72982370/116843049-b7b8d380-abac-11eb-8b4b-2f8843206fd7.png)
+
 <br/> <br/> 
 The arm for the scoop with a triangular support: 
 <br/> 
-![](armBeam2.png)
+![armBeam2](https://user-images.githubusercontent.com/72982370/116843062-c0a9a500-abac-11eb-8f6b-0fdb5508259f.png)
 <br/><br/> <br/> 
 ### Wiring
 **INSERT DIAGRAM + WIRING TABLE**
@@ -55,11 +57,11 @@ A real time operating system(RTOS) was used for precise motor control and quick 
 ## Demo
 Click for the demo video: 
 <br/> 
-[![4180 Demo Video](2021-05-02-23-42-54.png)](https://youtu.be/hyVIhcKYEOI "4180 Demo Video")
+[![4180 Demo Video](https://user-images.githubusercontent.com/72982370/116843088-db7c1980-abac-11eb-97d6-28799c1b5da6.jpg)](https://youtu.be/hyVIhcKYEOI "4180 Demo Video")
 <br/> 
 Click for Bluetooth Module control video:
 <br/>  
-[![Bluefruit Connect](2021-05-02-23-23-30.png)](https://youtu.be/8H74jWEbRB8 "Bluefruit Connect")
+[![Bluefruit Connect]((https://user-images.githubusercontent.com/72982370/116843114-efc01680-abac-11eb-8abc-8bd8b3eef585.jpg)](https://youtu.be/8H74jWEbRB8 "Bluefruit Connect")
 <br/><br/> 
 To setup the device you first need to do the following:
 
