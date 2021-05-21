@@ -1,9 +1,9 @@
 # ECE 4180 - Spring 2021 - Final Project
 ### Project Members: 
-##Eunsan Mo
-##Peiqi Zhao
-##Jason Au
-##Pooja Prabakaran  
+#### Eunsan Mo
+#### Peiqi Zhao
+#### Jason Au
+#### Pooja Prabakaran  
 
 <br/>
 
